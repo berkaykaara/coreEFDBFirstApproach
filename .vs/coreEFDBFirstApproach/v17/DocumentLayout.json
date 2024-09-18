@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFDBFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{684C420E-0B71-4AFE-B039-E7347AE7C982}|coreEFDBFirstApproach.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreefdbfirstapproach\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684C420E-0B71-4AFE-B039-E7347AE7C982}|coreEFDBFirstApproach.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684C420E-0B71-4AFE-B039-E7347AE7C982}|coreEFDBFirstApproach.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreefdbfirstapproach\\models\\databasefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{684C420E-0B71-4AFE-B039-E7347AE7C982}|coreEFDBFirstApproach.csproj|solutionrelative:models\\databasefirstdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684C420E-0B71-4AFE-B039-E7347AE7C982}|coreEFDBFirstApproach.csproj|c:\\users\\msi-nb\\desktop\\fotgithub\\coreefdbfirstapproach\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{684C420E-0B71-4AFE-B039-E7347AE7C982}|coreEFDBFirstApproach.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFDBFirstApproach\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFDBFirstApproach\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:50:43.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFDBFirstApproach\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFDBFirstApproach\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T20:45:13.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseFirstDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFDBFirstApproach\\Models\\DatabaseFirstDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\DatabaseFirstDbContext.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFDBFirstApproach\\Models\\DatabaseFirstDbContext.cs",
+              "RelativeToolTip": "Models\\DatabaseFirstDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:44:36.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

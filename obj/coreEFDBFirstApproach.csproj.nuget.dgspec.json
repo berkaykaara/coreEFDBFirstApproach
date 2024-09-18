@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msi-nb\\Desktop\\coreEFDBFirstApproach\\coreEFDBFirstApproach.csproj": {}
+    "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFDBFirstApproach\\coreEFDBFirstApproach.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msi-nb\\Desktop\\coreEFDBFirstApproach\\coreEFDBFirstApproach.csproj": {
+    "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFDBFirstApproach\\coreEFDBFirstApproach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msi-nb\\Desktop\\coreEFDBFirstApproach\\coreEFDBFirstApproach.csproj",
+        "projectUniqueName": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFDBFirstApproach\\coreEFDBFirstApproach.csproj",
         "projectName": "coreEFDBFirstApproach",
-        "projectPath": "C:\\Users\\msi-nb\\Desktop\\coreEFDBFirstApproach\\coreEFDBFirstApproach.csproj",
+        "projectPath": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFDBFirstApproach\\coreEFDBFirstApproach.csproj",
         "packagesPath": "C:\\Users\\msi-nb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msi-nb\\Desktop\\coreEFDBFirstApproach\\obj\\",
+        "outputPath": "C:\\Users\\msi-nb\\Desktop\\fotgithub\\coreEFDBFirstApproach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\msi-nb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,32 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
